@@ -1,0 +1,1 @@
+http://playbooks-rhtconsulting.rhcloud.com/playbooks/installation/
